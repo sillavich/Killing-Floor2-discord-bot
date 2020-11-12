@@ -1,0 +1,7 @@
+TOKEN=
+username=
+password=
+url=
+chromedriver=
+chatboxchannelid=
+botspamchannelid=
